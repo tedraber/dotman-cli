@@ -2,12 +2,12 @@ Basically my first actual C++ project, its relatively simple and tought me how t
 
 ## Quick Install
 ```bash
-curl -fsSL https://raw.githubusercontent.com/tedraber/dotman/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/tedraber/dotman-cli/main/install.sh | bash
 ```
 
 Or clone and install manually:
 ```bash
-git clone https://github.com/tedraber/dotman.git
+git clone https://github.com/tedraber/dotman-cli.git
 cd dotman
 ./install.sh
 ```

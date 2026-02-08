@@ -8,13 +8,13 @@ curl -fsSL https://raw.githubusercontent.com/tedraber/dotman-cli/main/install.sh
 Or clone and install manually:
 ```bash
 git clone https://github.com/tedraber/dotman-cli.git
-cd dotman
+cd dotman-cli
 ./install.sh
 ```
 
 ## Usage
 ```bash
-dotman  # Interactive menu
+dotman-cli  # Interactive menu
 ```
 
 ## Requirements

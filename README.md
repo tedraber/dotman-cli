@@ -11,5 +11,5 @@ xmake run
 
 ## Requirements
 
-- Linux or macOS(maybe)
+- Linux or macOS
 - bash or zsh 
